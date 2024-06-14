@@ -88,6 +88,7 @@
     background-color:rgb(211, 198, 198);
     margin: 100px 20px;
     border-radius: 20px;
+    height: fit-content;
 }
 
 .time-cards {
@@ -100,7 +101,7 @@
 
 .time-card {
     padding: 20px 0px;
-    width: 250px;
+    width: 100%;
     text-align: center;
 }
 
