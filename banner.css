@@ -39,6 +39,7 @@
     padding: 20px;
     display: flex;
     gap: 110px;
+    justify-content: space-between;
 }
 
 .banner-left {
