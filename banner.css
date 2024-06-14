@@ -77,11 +77,10 @@
 }
 
 .banner-right {
-    width: 30%;
+    width: fit-content;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-right: 100px;
 }
 
 .time-container {
@@ -108,4 +107,8 @@
 .temp {
     display: grid;
     grid-template-columns: auto auto auto;
+}
+
+.temp img{
+    width: 100%;
 }
